@@ -1,18 +1,17 @@
-# Meu Portfólio
-
-Este repositório contém meu portfólio pessoal, que apresenta diversos projetos fullstack desenvolvidos ao longo do tempo.
-
 ## Projetos Incluídos
 
-- Site institucional para empresa fictícia
-- Aplicação web para gestão de tarefas
-- Interface responsiva para dispositivo móvel
+- **Ferramenta de Dicionário**: Consulte definições e informações de palavras.
+- **Lista de Tarefas**: Organize e acompanhe suas tarefas diárias.
+- **Calculadora**: Realize cálculos matemáticos básicos.
+- **Consulta de CEP**: Encontre informações de endereços a partir do CEP.
+- **Sistema de Agendamento de Aulas**: Agende aulas particulares de maneira prática.
+- **Pokédex**: Explore uma Pokédex com todos os Pokémon da primeira geração e seus tipos (como Fire, Grass, Poison).
 
 ## Tecnologias Utilizadas
 
-- Next.js
+- HTML
+- CSS
 
 ## Visualização
 
-Para visualizar meu portfólio, basta acessar o link: [Meu Portfólio](https://wizdoux.vercel.app/) 
-
+Para visualizar meu portfólio, acesse o seguinte link: [Folio](https://wizdoux.vercel.app/)
